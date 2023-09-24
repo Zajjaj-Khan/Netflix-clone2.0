@@ -1,6 +1,6 @@
 import React, { useState,useEffect } from 'react'
-import '../../Css/Row.css';
-import axios from '../../axios';
+import '../../../Css/Row.css';
+import axios from '../../../axios';
 function Row({title,fetchUrl,isLargeRow=false}) {
     const [movies,setMovies] = useState([]);
     const base_url = 'https://image.tmdb.org/t/p/original/'
@@ -24,6 +24,7 @@ function Row({title,fetchUrl,isLargeRow=false}) {
                 src={`${base_url}${
                    isLargeRow ? movie.poster_path: movie.backdrop_path
                 }`} alt={movie.name}/>
+
             )
            
         ))}
