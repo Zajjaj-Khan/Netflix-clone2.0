@@ -18,7 +18,7 @@ Hello Guy ! Im Super exicted to share this built with you guys, A Netflix 2.0. T
 
 ## API Reference
 
-I have used a _ The Movie Database (TMDB) TMDB _ to fetchthe last,trending and different categories of movies
+I have used a _ The Movie Database (TMDB) TMDB _ to fetch the last, trending and different categories of movies
 
 ### BaseUrl
 
@@ -101,4 +101,4 @@ in your terminal.
 
 
 ## Screenshots
-![project image](https://github.com/Zajjaj-Khan/Netflix-clone/blob/master/images/main.jpg?raw=true)
+![project image](https://github.com/Zajjaj-Khan/Netflix-clone/blob/master/images/main.jpg)
