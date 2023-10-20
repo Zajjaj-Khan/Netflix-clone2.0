@@ -101,4 +101,4 @@ in your terminal.
 
 
 ## Screenshots
-![project image](https://github.com/Zajjaj-Khan/Netflix-clone/blob/master/images/main.jpg)
+![project image](https://github.com/Zajjaj-Khan/Netflix-clone2.0/blob/master/images/main.jpg)
