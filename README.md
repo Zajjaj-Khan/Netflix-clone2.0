@@ -98,3 +98,7 @@ in your terminal.
 | Neflix Red    | ![#e50914](https://via.placeholder.com/10/e50914?text=+) #e50914 |
 | Text/Headings | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff          |
 | Black         | ![#111](https://via.placeholder.com/10/111?text=+) #111          |
+
+
+## Screenshots
+![project image](https://github.com/Zajjaj-Khan/Netflix-clone/blob/master/images/main.jpg?raw=true)
